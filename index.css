@@ -1,0 +1,70 @@
+.txt{
+    margin-bottom: 10px;
+}
+section aside{
+    margin-top: 30px;
+}
+
+section img{
+    margin-top: 80px;
+    margin-bottom: 50px;
+    
+}
+
+aside h1{
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+aside h5{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.header h1{
+    color:white;
+    font-weight: bold;
+}
+.header{
+    color: white;
+    
+}
+.header button{
+    background-color: rgb(98, 98, 164);
+    margin-top: 10px;
+}
+.header p{
+    font-weight: normal;
+}
+.header a{
+    font-weight: normal;
+    color: white;
+}
+aside h1{
+    margin-left: 30px;
+    font-weight: bold;
+}
+section h5{
+    font-weight: bold;
+    text-align: center;
+}
+aside h4{
+    margin-left: 30px;
+       font-weight: bold;
+   } 
+
+section h1{
+    color: blue;
+    text-align: center;
+    margin-bottom: 30px;
+}
+aside button{
+    border-radius: 3px;
+    background-color: green;
+    width: 150px;
+    font-size: 20px;
+    text-align: center;
+    color: white;
+}
+#txtHo,#txtTen,#txtEDN,#txtNLEDN,#txtMK,#txtNS,#txtMKl{
+    border-radius: 3px;
+    border: 1px solid black;
+}
